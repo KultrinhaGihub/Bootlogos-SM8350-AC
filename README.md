@@ -3,7 +3,7 @@
 > 
 > ⚠️ : If you are here just out of curiosity or you barely know how to install a ROM, you should not touch it.
 
-This is the Bootlogos repository for the **Tundra**, better known as **Moto Edge 30 Fusion** phone. That's all I can describe for a README. Now, let's move on to the bootlogo previews of the ROMs.
+This is the Bootlogos repository for the **Tundra**, better known as **Moto Edge 30 Fusion and S30 Pro** phone. That's all I can describe for a README. Now, let's move on to the bootlogo previews of the ROMs.
 
 | LineageOS | AwakenOS | PixelOS (Style 1) | PixelOS (Style 2) |
 | --- | --- | --- | --- |
